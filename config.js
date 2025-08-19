@@ -6,10 +6,10 @@ function convertToBool(text, fault = 'true') {
 }
 
 module.exports = {
-SESSION_ID: process.env.SESSION_ID || "pk~i44jkRZb#h22luBhY1eluw-J-AieQfQCVAT352jyoJBM_7C5mKA4",
-AUTO_STATUS_SEEN: process.env.AUTO_STATUS_SEEN || "true",
+SESSION_ID: process.env.SESSION_ID || "pk~zlhhgLKT#aXbIfoEImdFE9BfNB8NVOAqhyxaVqZFSH_WX_OBzwAg",
+AUTO_STATUS_SEEN: process.env.AUTO_STATUS_SEEN || "false",
 AUTO_STATUS_REPLY: process.env.AUTO_STATUS_REPLY || "false",
-AUTO_STATUS_REACT: process.env.AUTO_STATUS_REACT || "true",
+AUTO_STATUS_REACT: process.env.AUTO_STATUS_REACT || "false",
 AUTO_STATUS_MSG: process.env.AUTO_STATUS_MSG || "*SEEN YOUR STATUS BY PK-XMD🤍*",
 WELCOME: process.env.WELCOME || "true",
 ADMIN_EVENTS: process.env.ADMIN_EVENTS || "false",
@@ -39,7 +39,7 @@ ALWAYS_ONLINE: process.env.ALWAYS_ONLINE || "false",
 PUBLIC_MODE: process.env.PUBLIC_MODE || "true",
 AUTO_TYPING: process.env.AUTO_TYPING || "false",
 READ_CMD: process.env.READ_CMD || "false",
-DEV: process.env.DEV || "254794146821",
+DEV: process.env.DEV || "2347030674008",
 ANTI_VV: process.env.ANTI_VV || "true",
 ANTI_DEL_PATH: process.env.ANTI_DEL_PATH || "log",
 AUTO_RECORDING: process.env.AUTO_RECORDING || "false",
